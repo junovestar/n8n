@@ -47,7 +47,7 @@
     "worker": "./packages/cli/bin/n8n worker"
   },
   "dependencies": {
-  "n8n-nodes-zalo-user": "^1.0.0"  // hoặc "latest" nếu không chắc version
+  "n8n-nodes-zalo-user": "^0.0.12"  // hoặc "latest" nếu không chắc version
 },
   "devDependencies": {
     "@biomejs/biome": "^1.9.0",
